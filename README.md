@@ -1,7 +1,7 @@
 ## Olá 👋, eu sou o Ronaldo! 
 
 <h3>Desenvolvedor Front-end, UX/UI Designer, de Goiás, Brazil 🇧🇷</h3>
-🎓 - Cursando Engenharia de Software presencialmente na <a href="https://www.unialfa.com.br/">Unialfa</a>, em busca da primeira experiência profissional!
+🎓 - Cursando Engenharia de Software presencialmente na <a href="https://www.unialfa.com.br/">Unialfa</a>, em busca de mais experiência profissional!
 
 <h4>💻 - Estou trabalhando com...</h4>  
 <h6>front-end</h6>
